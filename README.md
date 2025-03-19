@@ -27,7 +27,7 @@ You can view the contract on Base Sepolia Explorer: [https://sepolia.basescan.or
 1. Install dependencies:
 
 ```bash
-npm install ethers@6.8.1 dotenv
+npm install ethers dotenv
 ```
 
 2. Create a `.env` file with your configuration:
